@@ -57,7 +57,7 @@ Starting in June 2026, I will also deepen my knowledge of Spring Testing and Spr
 
 ## Career Goal
 
-I am looking for a Junior Java / Spring Boot Developer position, ideally in Lyon or Paris, in a technical environment where I can keep improving and contribute to real projects.
+I am looking for a Junior Java / Spring Boot Developer position, ideally in Lyon, Paris or Madrid, in a technical environment where I can keep improving and contribute to real projects.
 
 ## Contact
 
